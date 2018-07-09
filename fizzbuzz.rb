@@ -4,6 +4,6 @@
 
 
 
-def fizzbuzz
+def fizzbuzz(int)
   
 end 
